@@ -1,4 +1,4 @@
-# GMail: Archive old messages by label and category
+# GMail-Archive-old-messages-by-label-and-category
 
 ### Author: Warwick Allen
 ### Licence: MIT
@@ -31,13 +31,13 @@ certain age according to their label or category.
 
    Examples:
 
-   ![Google Sheet "Archive old messages by label and category", "label" tab](html://'example-images/Google Sheet "Archive old messages by label and category", "label" tab.png)
+   ![Google Sheet "Archive old messages by label and category", "label" tab](example-images/label-tab.png)
 
-   ![Google Sheet "Archive old messages by label and category", "category" tab](html://'example-images/Google Sheet "Archive old messages by label and category", "category" tab.png)
+   ![Google Sheet "Archive old messages by label and category", "category" tab](example-images/category-tab.png)
 
 1. Back in the project, create a time-drive trigger to periodically
    invoke the "go()" function.
 
    Example:
 
-   ![project trigger](example-images/project trigger.png)
+   ![project trigger](example-images/project-trigger.png)
