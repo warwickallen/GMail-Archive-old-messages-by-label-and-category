@@ -13,13 +13,13 @@ December 2016
 MIT
 
 
-## Purposes
+## Purpose
 
 Provides a mechanism to archive messages in GMail when they reach a
 certain age according to their label or category.
 
 
-## Setup and Usage
+## Setup
 
 1. Create a Google Script project called "Archive old messages by label
    and category".
@@ -49,3 +49,10 @@ certain age according to their label or category.
    Example:
 
    ![project trigger](example-images/project-trigger.png)
+
+
+# Usage 
+
+Set up GMail filters to add labels or to categorise incoming mail to
+match the rules defined in the "Archive old messages by label and
+category" Google sheet.
