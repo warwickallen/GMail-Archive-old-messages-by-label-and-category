@@ -1,11 +1,19 @@
 # GMail-Archive-old-messages-by-label-and-category
 
-### Author: Warwick Allen
-### Licence: MIT
-### Date: December 2016
+#### Author
+
+Warwick Allen
+
+#### Date
+
+December 2016
+
+#### Licence
+
+MIT
 
 
-# Purposes
+## Purposes
 
 Provides a mechanism to archive messages in GMail when they reach a
 certain age according to their label or category.
